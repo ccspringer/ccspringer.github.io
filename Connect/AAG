@@ -1,3 +1,8 @@
+---
+layout: default
+shortname: AAG
+---
+
 <object data="AAG_CfP.pdf" type="application/pdf" width="100%" height="400">
 <iframe src="AAG_CfP.pdf" width="100%" height="400" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="AAG_CfP.pdf">Download CfP</a>
